@@ -1,0 +1,35 @@
+{
+  "quiz_title": "sample_document",
+  "questions": [
+    {
+      "question": "What is the primary function of the mitochondria in a cell?",
+      "options": [
+        "Protein synthesis",
+        "Energy production through ATP generation",
+        "DNA storage",
+        "Cell division"
+      ],
+      "correct_option": 1
+    },
+    {
+      "question": "Which of the following is NOT a characteristic of living organisms?",
+      "options": [
+        "Ability to reproduce",
+        "Response to environment",
+        "Permanent structural composition",
+        "Metabolism"
+      ],
+      "correct_option": 2
+    },
+    {
+      "question": "What is the basic unit of life?",
+      "options": [
+        "Atom",
+        "Molecule",
+        "Cell",
+        "Organ"
+      ],
+      "correct_option": 2
+    }
+  ]
+}
